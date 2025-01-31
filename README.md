@@ -59,5 +59,12 @@ The ESP8266 serves a **webpage UI** where users can:
 -- **http://192.168.4.1**
 - **Adjust moisture threshold and monitor real-time data**
 
+# 📷 Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53293d44-aa95-4940-aca3-480d90b38f47" width="300";">
+</p>
 
-
+## 🛠️ Future Enhancements
+🔹 **Add IoT Cloud Support** (MQTT, Firebase)
+🔹 **Integrate AI-based Irrigation Prediction**
+🔹 **Battery & Solar-Powered Operation**
