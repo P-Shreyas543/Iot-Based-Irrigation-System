@@ -65,6 +65,6 @@ The ESP8266 serves a **webpage UI** where users can:
 </p>
 
 ## 🛠️ Future Enhancements
-🔹 **Add IoT Cloud Support** (MQTT, Firebase)
-🔹 **Integrate AI-based Irrigation Prediction**
-🔹 **Battery & Solar-Powered Operation**
+-🔹 **Add IoT Cloud Support** (MQTT, Firebase)
+-🔹 **Integrate AI-based Irrigation Prediction**
+-🔹 **Battery & Solar-Powered Operation**
