@@ -1,7 +1,7 @@
 # IoT-Based Smart Irrigation System 🌱💧
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b72c420d-f046-4ce2-ac90-a65d5dc42242" width="300" style="transform: rotate(0deg);">
+  <img src="https://github.com/user-attachments/assets/b72c420d-f046-4ce2-ac90-a65d5dc42242" width="300" style="transform: rotate(90 deg);">
 </p>
 
 ## 📌 Project Overview  
