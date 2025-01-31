@@ -29,7 +29,7 @@ This project is an **IoT-Based Smart Irrigation System** using an **ESP8266**, a
 ## 📌 Circuit Connections  
 | Component           | ESP8266 Pin  |
 |--------------------|-------------|
-| DHT Sensor (Data)  | D5 (GPIO14)  |
+| DHT Sensor (Data)  | D1 (GPIO14)  |
 | Soil Moisture Sensor | A0 (Analog)  |
 | Relay (Pump Control) | D2 (GPIO4)   |
 
