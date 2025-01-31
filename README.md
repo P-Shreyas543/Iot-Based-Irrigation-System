@@ -44,17 +44,17 @@ The ESP8266 serves a **webpage UI** where users can:
    cd Iot-Based-Irrigation-System
 
 2. **Upload the Code using Arduino IDE**
--**Install ESP8266 Board Manager**
--**Install required libraries**:
---**ESPAsyncWebServer, DHT sensor library, Adafruit Unified Sensor**
--**Set Board to NodeMCU 1.0 (ESP-12E Module)**
--**Select the correct COM Port and Upload**
+- **Install ESP8266 Board Manager**
+- **Install required libraries**:
+-- **ESPAsyncWebServer, DHT sensor library, Adafruit Unified Sensor**
+- **Set Board to NodeMCU 1.0 (ESP-12E Module)**
+- **Select the correct COM Port and Upload**
 
 3.**Connect to ESP8266 Access Point**
--**Default WiFi: ESP8266_AP**
--**Password: 12345678**
--**Open Browser and go to:**
---**http://192.168.4.1**
-**Adjust moisture threshold and monitor real-time data**
+- **Default WiFi: ESP8266_AP**
+- **Password: 12345678**
+- **Open Browser and go to:**
+-- **http://192.168.4.1**
+-- **Adjust moisture threshold and monitor real-time data**
 
 
