@@ -1,6 +1,8 @@
 # IoT-Based Smart Irrigation System 🌱💧
 
-![IoT-Based Smart Irrigation System](https://github.com/user-attachments/assets/b72c420d-f046-4ce2-ac90-a65d5dc42242)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b72c420d-f046-4ce2-ac90-a65d5dc42242" width="300" style="transform: rotate(-90deg);">
+</p>
 
 ## 📌 Project Overview  
 This project is an **IoT-Based Smart Irrigation System** using an **ESP8266**, a **DHT sensor** for temperature and humidity monitoring, and a **soil moisture sensor** to detect soil conditions. The system features:  
@@ -55,6 +57,7 @@ The ESP8266 serves a **webpage UI** where users can:
 - **Password: 12345678**
 - **Open Browser and go to:**
 -- **http://192.168.4.1**
--- **Adjust moisture threshold and monitor real-time data**
+- **Adjust moisture threshold and monitor real-time data**
+
 
 
